@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @breno13es
-- 👀 I’m interested in Gamesn and web design
+- 👀 I’m interested in Games and web design
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on (actually nothing)
 - 📫 How to reach me Brenostudiobr@gmail.com
